@@ -1,5 +1,5 @@
 # Qué es Python?
-
+xd
 # Qué es una variable?
 
 ## Nombrando una variable
