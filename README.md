@@ -8,7 +8,7 @@ La creación de variables se realiza a través de la asignación de un valor a l
 Correcta asignacion de variable
 ```python
 x=10
-
+```
 Incorrecta asignacion de variable
 ```python
 10=x
