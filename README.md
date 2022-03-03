@@ -12,7 +12,6 @@ x=10
 Incorrecta asignacion de variable
 ```python
 10=x
-
 ## Asignando valores a una variable
 
 ## Operadores básicos
