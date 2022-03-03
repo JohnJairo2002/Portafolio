@@ -14,6 +14,13 @@ Incorrecta asignacion de variable
 10=x
 ```
 ## Asignando valores a una variable
+Los valores o datos es lo que nuestra variable anteriormente creada almacenará dentro, para esto debemos tener pensado si nuestra variable almacenará un valor numérico o un valor.
+
+Asignando un valor numérico a nuestra variable:
+```pythom
+valor numerico=20
+```
+En este caso  el valor colocado no llevo comilla ya que asi pythom lo reconocera automaticamente como un valor numerico, pero si este mismo se le agregara comillas pythom lo reconoceria como un texto.
 
 ## Operadores básicos
 
