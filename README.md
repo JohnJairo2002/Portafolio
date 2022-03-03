@@ -3,7 +3,13 @@ Python es un lenguaje de programación interpretado,sencillo de leer y escribir 
 # Qué es una variable?
 Dependiendo del lenguaje de programacion una variable puede indicar al programa de qué lugar empieza a existir, qué nombre tendrá y qué tipo de datos almacenarás, es un elemento que se emplea para almacenar y hacer referencia a otro valor o para explicarlo de una manera mas sencilla, es una caja el cual seria la variable  en la cual puede estar almacenado un valor o bien agregarle uno.
 ## Nombrando una variable
-
+La creación de variables se realiza a través de la asignación de un valor a la misma. El operador de asignación en Python es el “=“
+x = 100
+De derecha a izquierda
+"correcto"
+100 = x
+De izquierda a derecha
+"incorrecto"
 ## Asignando valores a una variable
 
 ## Operadores básicos
