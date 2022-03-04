@@ -129,7 +129,7 @@ diccionario = {'Nombre': 'John', 'Edad': 19}
 print(diccionario)
 ```
 # Tomando decisiones
-
+Las decisiones en pythom son muy importantes en el momento de decidir si nuestro program ejecute una orden, pero para esto se tiene que cumplir con algunas condiciones anteriores, para conseguir esto en python se usa la sentencia if
 ## Sentencia if
 
 ## Ciclo For
