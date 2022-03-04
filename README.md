@@ -104,7 +104,12 @@ comida_favorita = 'Hamburguesas'
 print(comida_favorita)             
 ```
 ## Casting en Python
-
+El casting es la tecnica que sirve para convertir un dato de un tipo a un tipo de dato diferente,por ejemplo:
+```python
+int a str: str(25)
+str a int: int ("89")
+float a int: int (5.3)
+```
 ## List
 
 ## Tuple
