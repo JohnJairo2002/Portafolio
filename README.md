@@ -123,6 +123,7 @@ tuple=[carro,casa,televisor]
 print:("tuple")
 ```   
 ## Dictionary
+Un Diccionario es una estructura de datos y un tipo de dato en Python con características especiales que nos permite almacenar cualquier tipo de valor como enteros, cadenas, listas e incluso otras funciones. Estos diccionarios nos permiten además identificar cada elemento por una clave (Key).
 
 # Tomando decisiones
 
