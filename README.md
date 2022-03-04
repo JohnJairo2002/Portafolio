@@ -32,9 +32,15 @@ El operador de la suma  funciona como una suma normal, se suma los numeros usado
 resultado = 10 + 5
 print(resultado)
 ```
-Se creo una variable que dentro contenga una operacion, en el cual seria la suma de los numeros, despues se escribio print y se coloca el nombre de la variable que seria "resultado", y al final se imprimira el resultado de la operacion
+Se creo una variable que dentro contenga una operacion, en el cual seria la suma de los numeros, despues se escribio print y se coloca el nombre de la variable que seria "resultado", y al final se imprimira en pantalla el  resultado de la operacion
 
 ### Resta
+Es igal a la suma solo que en vez de sumar los numeros asignados se los restan,por ejemplo:
+```python
+resultado= 30 - 15
+print(resultado)
+```
+Ocurrio lo que paso con el operador de la suma,solo que aqui se realizo lo correspondido que seria la resta del 30 - 15, dando su resultado para luego imprimir en pantalla
 
 ### Multiplicación
 
