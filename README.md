@@ -58,7 +58,14 @@ print(resultado)
 ```
 Aqui se llevo a cabo la division entre el numero 15 y el 3 el cual obtenido el resultado, se escribe el print para imprimir en pantalla.
 ### Módulo
-
+El operador módulo da como resultado el resto de la división entera, el simbolo para este operador es el %, por ejemplo:
+```python
+num1=6
+num2=20
+modulo=num1%num2
+print(num1,'%',num2,'=',modulo)
+```
+Como se dijo el modulo da como resultado el resto de la division entera, aqui esta un ejemplo de como modular con dos variables
 # Tipos de datos en Python
 
 ## Integer
