@@ -131,7 +131,18 @@ print(diccionario)
 # Tomando decisiones
 Las decisiones en pythom son muy importantes en el momento de decidir si nuestro program ejecute una orden, pero para esto se tiene que cumplir con algunas condiciones anteriores, para conseguir esto en python se usa la sentencia if
 ## Sentencia if
+Es una forma común de controlar el flujo de un programa, lo que te permite ejecutar bloques de código específicos según el valor de algunos datos. Si la condición que sigue a la palabra clave if se evalúa como verdadera, el bloque de código se ejecutará.
+#Escribir un programa que solicite un valor entero al usuario
+#determine si es par o impar
+```python
+num=int(input("ingrese numero:"))
 
+if (num%4==0):
+    print("El numero es par",)
+    print(num,"es par")
+else:
+    print("El numero es impar")
+```
 ## Ciclo For
 
 ## Ciclo While
