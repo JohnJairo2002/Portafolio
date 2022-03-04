@@ -111,7 +111,11 @@ str a int: int ("89")
 float a int: int (5.3)
 ```
 ## List
-
+Son conjuntos ordenados de elementos, los valores de diferentes tipos de datos básicos se pueden agrupar y los elementos se pueden agregar, eliminar o cambiar de las listas en cualquier momento es decir mutables, se representan con corchetes"[]", comillas "" y comas ",".Por ejemplo:
+```python 
+list = [9,6,5["nueve",seis","cinco"]]
+print(list)
+```
 ## Tuple
 
 ## Dictionary
