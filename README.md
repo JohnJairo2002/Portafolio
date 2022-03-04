@@ -76,7 +76,11 @@ Los tipos de datos son:
 ```
 
 ## Integer
-
+Este tipo de de datos se corresponde con números enteros, es decir numeros que no tengan decimales, aqui se usa el comando "int" para representarlo,por ejemplo:
+```python
+a = int(2)
+print(a)
+```
 ## Float
 
 ## String
