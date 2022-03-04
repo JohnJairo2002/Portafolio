@@ -73,7 +73,7 @@ Los tipos de datos son:
 *Numeros de punto flotante
 *Texto(cadena de caracteres)
 *Booleanos(Verdaderos y falso)
-
+```
 ## Integer
 
 ## Float
