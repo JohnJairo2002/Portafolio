@@ -27,6 +27,13 @@ nombre_animal: "perro"
 ## Operadores básicos
 
 ### Suma
+El operador de la suma  funciona como una suma normal, se suma los numeros usados por el programo o usuario a travez de pythom por ejemplo:
+```pythom
+resultado= 10+5
+print(resultado)
+```
+Se creo una variable que dentro contenga una operacion, en el cual seria la suma de los numeros, despues se escribio print y se coloca el nombre de la variable que seria "resultado", y al final se imprimira el resultado de la operacion
+
 
 ### Resta
 
