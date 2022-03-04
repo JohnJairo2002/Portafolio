@@ -91,7 +91,18 @@ print(type(resultado))  #Se imprimirá <class 'float'>
 En este  ejemplo, el programa luego de imprimir el resultado , debajo de este imprimirá el tipo de dato que és en el siguiente formato: <class 'float'>, que da a entender que el tipo de dato resultante es float.
 
 ## String
+Este tipo de datos corresponde con una cadena de caracteres que representa un texto,se usa el comando "str" para representarlo con comillas simples o dobles, por ejemplo:
 
+Usando comillas dobles:
+```python
+comida_favorita = "Hamburguesas" 
+print(comida_favorita)             
+```
+Usando comillas simples:
+```python
+comida_favorita = 'Hamburguesas'
+print(comida_favorita)             
+```
 ## Casting en Python
 
 ## List
