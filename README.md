@@ -32,7 +32,7 @@ El operador de la suma  funciona como una suma normal, se suma los numeros usado
 resultado = 10 + 5
 print(resultado)
 ```
-Se creo una variable que dentro contenga una operacion, en el cual seria la suma de los numeros, despues se escribio print y se coloca el nombre de la variable que seria "resultado", y al final se imprimira en pantalla el  resultado de la operacion
+Se creo una variable que dentro contenga una operacion, en el cual seria la suma de los numeros, despues se escribio print y se coloca el nombre de la variable que seria "resultado", y al final se imprimira en pantalla el  resultado de la operacion.
 
 ### Resta
 Es igal a la suma solo que en vez de sumar los numeros asignados se los restan,por ejemplo:
@@ -40,7 +40,7 @@ Es igal a la suma solo que en vez de sumar los numeros asignados se los restan,p
 resultado= 30 - 15
 print(resultado)
 ```
-Ocurrio lo que paso con el operador de la suma,solo que aqui se realizo lo correspondido que seria la resta del 30 - 15, dando su resultado para luego imprimir en pantalla
+Ocurrio lo que paso con el operador de la suma,solo que aqui se realizo lo correspondido que seria la resta del 30 - 15, dando su resultado para luego imprimir en pantalla.
 
 ### Multiplicación
 Este operador lógico en programación se lo representa de la siguiente forma: * , ya que es el símbolo que usa el intérprete de python para referirnos que la operación que se llevará a cabo será una multiplicación,por ejemplo:
@@ -48,10 +48,15 @@ Este operador lógico en programación se lo representa de la siguiente forma: *
 resultado = 4 * 3
 print(resultado)
 ```
-En este caso el programa multiplicara el 4 con el 3 para luego guardar el resultado en la variable "resultado", dando como respuesta 12 para luego imprimir en pantalla la respuesta
+En este caso el programa multiplicara el 4 con el 3 para luego guardar el resultado en la variable "resultado", dando como respuesta 12 para luego imprimir en pantalla la respuesta.
 
 ### División
-
+Para python se usara el  slash /, el cual indica que la operación que se llevará a continuación es una división, por ejemplo:
+```python
+resultado = 15 / 3
+print(resultado)
+```
+Aqui se llevo a cabo la division entre el numero 15 y el 3 el cual obtenido el resultado, se escribe el print para imprimir en pantalla.
 ### Módulo
 
 # Tipos de datos en Python
