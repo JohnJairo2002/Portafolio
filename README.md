@@ -17,7 +17,7 @@ Incorrecta asignacion de variable
 Los valores o datos es lo que nuestra variable anteriormente creada almacenará dentro, para esto debemos tener pensado si nuestra variable almacenará un valor numérico o un valor.
 
 Asignando un valor numérico a nuestra variable:
-```pythom
+```python
 valor numerico=20
 ```
 En este caso  el valor colocado no llevo comilla ya que asi pythom lo reconocera automaticamente como un valor numerico, pero si este mismo se le agregara comillas pythom lo reconoceria como un texto,por ejemplo:
@@ -28,7 +28,7 @@ nombre_animal: "perro"
 
 ### Suma
 El operador de la suma  funciona como una suma normal, se suma los numeros usados por el programo o usuario a travez de pythom por ejemplo:
-```pythom
+```python
 resultado = 10 + 5
 print(resultado)
 ```
