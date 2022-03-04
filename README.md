@@ -23,7 +23,7 @@ valor numerico=20
 En este caso  el valor colocado no llevo comilla ya que asi pythom lo reconocera automaticamente como un valor numerico, pero si este mismo se le agregara comillas pythom lo reconoceria como un texto,por ejemplo:
 ```pythom
 nombre_animal: "perro"
-
+```
 ## Operadores básicos
 
 ### Suma
