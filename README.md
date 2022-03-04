@@ -43,6 +43,12 @@ print(resultado)
 Ocurrio lo que paso con el operador de la suma,solo que aqui se realizo lo correspondido que seria la resta del 30 - 15, dando su resultado para luego imprimir en pantalla
 
 ### Multiplicación
+Este operador lógico en programación se lo representa de la siguiente forma: * , ya que es el símbolo que usa el intérprete de python para referirnos que la operación que se llevará a cabo será una multiplicación,por ejemplo:
+```python
+resultado = 4 * 3
+print(resultado)
+```
+En este caso el programa multiplicara el 4 con el 3 para luego guardar el resultado en la variable "resultado", dando como respuesta 12 para luego imprimir en pantalla la respuesta
 
 ### División
 
