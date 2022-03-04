@@ -82,6 +82,13 @@ a = int(2)
 print(a)
 ```
 ## Float
+Este tipo de dato corresponde a los numeros reales con partes decimales. En python el que separa los decimales es el  punto "." y no la coma ",". Aqui se usa el comando "float" para representarlo,por ejemplo:
+```python
+resultado = 5.2 + 2.5
+print(resultado)
+print(type(resultado))  #Se imprimirá <class 'float'>
+```
+En este  ejemplo, el programa luego de imprimir el resultado , debajo de este imprimirá el tipo de dato que és en el siguiente formato: <class 'float'>, que da a entender que el tipo de dato resultante es float.
 
 ## String
 
