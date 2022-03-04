@@ -117,7 +117,11 @@ list = [9,6,5["nueve",seis","cinco"]]
 print(list)
 ```
 ## Tuple
-
+Las tuplas en python es un conjunto ordenado de elementos que se encuentran encerrados por paréntesis y separados por comas, casi como si fuera una lista, que una tupla no puede ser una tupla vacía(no tener ningún elemento dentro), y tampoco puede cambiar el orden ni datos dentro de ellas, por ejemplo:
+```python
+tuple=[carro,casa,televisor]
+print:("tuple")
+```   
 ## Dictionary
 
 # Tomando decisiones
