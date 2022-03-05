@@ -175,3 +175,14 @@ for i in range (10):
         break
 ```
 ## Continue
+La instrucción continue da la opción de omitir la parte de un bucle en la que se activa una condición externa, pero continuar para completar el resto del bucle.
+```python
+contador=0
+for i in range (10):
+    for j in range (10):
+        contador +=1
+        print ("i:",i,"j:",j)
+        if contador >50:
+            continue
+print ("contador:",contador)
+```
