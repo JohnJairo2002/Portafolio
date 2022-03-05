@@ -153,7 +153,17 @@ print()
 print("Final")
 ```                                     
 ## Ciclo While
+El ciclo while valúa una condición y luego ejecuta un bloque de código solo si la condición dada por el programa es verdadera, el código seguirá ejecutandose hasa que la condición sea falsa, por ejemplo:
+```python
+#10-20
 
+num=11
+
+while num<10 or num >20 or num%2!=0:
+    num=int(input("ingrese numero:"))
+
+print("se fue")
+```
 ## Break
 
 ## Continue
