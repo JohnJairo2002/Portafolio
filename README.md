@@ -144,7 +144,14 @@ else:
     print("El numero es impar")
 ```
 ## Ciclo For
-
+EN python el ciclo for es una estructua que repite una serie de instrucciones por un numero determinado de veces(bucle)estos bucles, como su nombre indica, nos permiten ejecutar una o más líneas de código de forma iterativa, por ejemplo:
+```python
+print("Comienzo")
+for _ in [0, 1, 2]:
+    print("Hola ", end="")
+print()
+print("Final")
+```                                     
 ## Ciclo While
 
 ## Break
